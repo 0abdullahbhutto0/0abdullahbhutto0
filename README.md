@@ -22,4 +22,4 @@ I’m a first-year Computer Science student with a passion for learning and buil
  📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/abdullah-bhutto-3118a9310/)
-- [Email] abdullahasjadbhutto@yahoo.com
+- abdullahasjadbhutto@yahoo.com
