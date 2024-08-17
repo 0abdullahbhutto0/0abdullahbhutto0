@@ -10,7 +10,7 @@ I’m a first-year Computer Science student with a passion for learning and buil
 
 **🔧 Technologies & Tools:**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%000000?style=flat-square&logo=javascript&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=yellow)
 ![React](https://img.shields.io/badge/React-%23282C34?style=flat-square&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=flat-square&logo=java&logoColor=red)
