@@ -5,7 +5,7 @@
 
 -About Me
 
-I’m a first-year Computer Science student with a passion for learning and building web applications, designing user interfaces, and exploring data science. I love to code and am always looking for new challenges to grow my skills.
+I’m a second-year Computer Science student with a passion for learning and building web applications, designing user interfaces, and exploring data science. I love to code and am always looking for new challenges to grow my skills.
 
 
 **🔧 Technologies & Tools:**
