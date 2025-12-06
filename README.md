@@ -12,13 +12,14 @@ I’m a third-year Computer Science student with a passion for learning and buil
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=yellow)
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=red)
-![React](https://img.shields.io/badge/React-%23282C34?style=flat-square&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23282C34?style=flat-square&logo=php&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-%23F7DF1E?style=flat-square&logo=java&logoColor=red)
 ![SQL](https://img.shields.io/badge/SQL-%2307405C?style=flat-square&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=yellow)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20Bi-%23007ACC?style=flat-square&logo=power-bi&logoColor=white)
 
  📫 How to reach me
 
