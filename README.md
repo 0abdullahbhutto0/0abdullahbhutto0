@@ -12,7 +12,7 @@ I’m a third-year Computer Science student with a passion for learning and buil
 
 ![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat-square&logo=laravel&logoColor=red)
 ![PHP](https://img.shields.io/badge/PHP-%23282C34?style=flat-square&logo=php&logoColor=61DAFB)
-![Go](https://img.shields.io/badge/Go-%23282C34?style=flat-square&logo=go&logoColor=61DAFB)
+![Go](https://img.shields.io/badge/Go-%23282C34?style=flat-square&logo=go&logoColor=lightblue)
 ![Postgres](https://img.shields.io/badge/Postgres-%234169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=openjdk&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-F2C811?style=flat-square&logo=python&logoColor=blue)
