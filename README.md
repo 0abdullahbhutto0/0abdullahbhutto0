@@ -1,6 +1,6 @@
 👋 Hi, I’m @0abdullahbhutto0
 
-🚀 CS Student | 🌐 Web Dev Enthusiast | 🎨 UI/UX Designer | 📊 Aspiring Data Scientist | 💻 Software Developer
+🚀 CS Student | 🌐 Web Dev Enthusiast | 💻 Software Developer
 
 
 -About Me
