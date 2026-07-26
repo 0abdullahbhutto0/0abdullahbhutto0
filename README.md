@@ -3,7 +3,7 @@
 🚀 CS Student | 🌐 DevOps Enthusiast | 💻 Software Developer
 
 
-- About Me
+### About Me
 
 I’m a third-year Computer Science student with a passion for learning and building containarized applications, designing user interfaces, and exploring technologies that challenge my thinking. I love to code and am always looking for new challenges to grow my skills.
 
